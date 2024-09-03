@@ -1,0 +1,46 @@
+{
+  "library": {
+    "books": [
+      {
+        "id": 1,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publishedYear": 1925,
+        "genre": "Classic",
+        "availableCopies": 5
+      },
+      {
+        "id": 2,
+        "title": "1984",
+        "author": "George Orwell",
+        "publishedYear": 1949,
+        "genre": "Dystopian",
+        "availableCopies": 3
+      },
+      {
+        "id": 3,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publishedYear": 1960,
+        "genre": "Historical Fiction",
+        "availableCopies": 7
+      },
+      {
+        "id": 4,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "publishedYear": 1813,
+        "genre": "Romance",
+        "availableCopies": 4
+      },
+      {
+        "id": 5,
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "publishedYear": 1851,
+        "genre": "Adventure",
+        "availableCopies": 2
+      }
+    ]
+  }
+}
